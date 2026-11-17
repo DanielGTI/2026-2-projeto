@@ -34,9 +34,23 @@ O grupo deve criar uma vídeo de apresentação do projeto, descrevendo neste su
 O vídeo deve estar publicado no youtube, deve estar como público ou não listado. Com duração mínima de 5 minutos.
 
 **ATENÇÃO**: A Uninove solitou a criação de um banner para divulgação do seu projeto. Ele deve estar exclusivamente no formato conforme o modelo em anexo.
-Este banner deve ser **postado** também na central do aluno, de forma **individual**, ou seja, todos os alunos devem postar o banner, mesmo que algum integrante do seu grupo tenha postado anteriormente. No formulário de entrega do projeto (google forms), apenas o lider do grupo deve postar o banner. A Uninove informou que sem o lançamento individual do Banner, o aluno ficará sem nota. CUIDADO e Atenção!!
+Este banner deve ser **postado** também na central do aluno, de forma **individual**, ou seja, todos os alunos devem postar o banner, mesmo que algum integrante do seu grupo tenha postado anteriormente. 
 
-Portanto, não enviar o projeto, documentação ou códigos por e-mail.
+No formulário de entrega do projeto (google forms), apenas o lider do grupo deve postar a cópia do banner. 
+
+***Como postar** — Central do Aluno (Lançamento Individual)*
+
+Acessar a Central do Aluno e seguir o caminho:
+
+***Meus Links** → Projetos*
+
+O banner deve ser enviado em arquivo PDF, com tamanho máximo de 10 MB.
+
+Embora o projeto seja desenvolvido em equipe, a postagem do banner é individual e obrigatória para todos os integrantes. Por exemplo, em uma equipe com 10 alunos, cada um deverá fazer a postagem em sua própria Central do Aluno.
+
+-----
+
+Não enviar o projeto, documentação ou códigos por e-mail.
 
 **Para formalizar a entrega do projeto**, apenas um integrante do grupo deve preencher o formulário final de entrega.
 	
